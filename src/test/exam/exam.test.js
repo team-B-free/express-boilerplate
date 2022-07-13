@@ -8,6 +8,6 @@ describe('test', () => {
   });
 
   test('2+4', () => {
-    expect(2 + 4).toBe(6);
+    expect(2 + 4).toBe(5);
   });
 });
