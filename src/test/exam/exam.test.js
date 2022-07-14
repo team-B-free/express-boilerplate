@@ -3,7 +3,8 @@ describe('test', () => {
     expect(1 + 1).toBe(2);
   });
 
-  test('2+4', () => {
-    expect(2 + 4).toBe(5);
+  test('3+4', () => {
+    expect(3 + 4).toBe(7);
+
   });
 });
